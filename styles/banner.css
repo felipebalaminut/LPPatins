@@ -14,6 +14,7 @@
   & .rolling {
     display: flex;
     gap: 1.5rem;
+    justify-content: center;
 
     animation: rolling 2s linear infinite;
   }
