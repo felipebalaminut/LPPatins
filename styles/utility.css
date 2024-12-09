@@ -5,6 +5,10 @@
   /* border: 1px solid violet; */
 }
 
+.px-base {
+  padding-inline: var(--px-base);
+}
+
 @media (width >= 80em) {
   .container {
     --max-width: 80rem;
